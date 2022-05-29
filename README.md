@@ -11,16 +11,26 @@ may also be called symbolic machine code.
 You must rewrite the following functions in asm:
 
 ◦ ft_strlen (man 3 strlen)
+
 ◦ ft_strcpy (man 3 strcpy)
+
 ◦ ft_strcmp (man 3 strcmp)
+
 ◦ ft_write (man 2 write)
+
 ◦ ft_read (man 2 read)
+
 ◦ ft_strdup (man 3 strdup, you can call to malloc)
 
+
 • You must write 64 bits ASM. Beware of the "calling convention".
+
 • You can’t do inline ASM, you must do ’.s’ files.
+
 • You must compile your assembly code with nasm.
+
 • You must use the Intel syntax, not the AT&T
+
 
 📌 Usage && More detailed information is contained in subject
 
