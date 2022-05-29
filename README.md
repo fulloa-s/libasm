@@ -9,6 +9,7 @@ across multiple architectures but require interpreting or compiling. Assembly la
 may also be called symbolic machine code.
 
 You must rewrite the following functions in asm:
+
 ◦ ft_strlen (man 3 strlen)
 ◦ ft_strcpy (man 3 strcpy)
 ◦ ft_strcmp (man 3 strcmp)
